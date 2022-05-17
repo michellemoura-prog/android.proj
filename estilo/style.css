@@ -60,7 +60,7 @@ header >p{
     padding-left: 20px;
     padding-right: 20px;
     margin: auto;
-    margin-bottom: 20px var(--cor3);
+    padding-bottom: 50px var(--cor3);
 }
 nav{
     background-color: var(--cor4);
